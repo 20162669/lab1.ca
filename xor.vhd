@@ -1,5 +1,5 @@
 -- File: xor.vhd
--- Compiled by: Edgar Kalinovski ETf-16“.
+-- Compiled by: Jonas Valaitis EF-16“.
 library ieee;
 use ieee.std_logic_1164.all;
 
@@ -18,5 +18,5 @@ end xor_arc;
 
 
 -- Pirmas Laboratorinis darbas
-
 --Padarytas pakeitimas
+--Padarytas 2 pakeitimas
